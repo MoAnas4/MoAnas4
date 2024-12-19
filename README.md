@@ -1,10 +1,19 @@
-# Hi There 
- <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1m98fXn60OsU7P-XOcd9kLfW7D2wVNCpf/view?usp=sharing">
-# About Me:
-UX designer || illustrator || learning front-end development
+#  Hi, I'm Mohammad Anas  
 
-merging my design and technology skills to make remarkable experiences for people 
+![Banner](./banner.png)
 
+##  About Me  
+Creating stuff I find love and purpose in:  
+- 🎮 Indie Game Development**  
+- UI/UX Design**  
+- 2D/3D Graphics**  
+- Motion Design**  
 
+---
 
--->
+##  Connect with Me  
+-  Email: mo.anascoms@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mohammad-anas-06876a283/  
+- 🌐 **itch.io: https://macoms.itch.io/  
+
+  
