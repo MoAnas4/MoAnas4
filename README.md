@@ -14,6 +14,6 @@ Creating stuff I find love and purpose in:
 ##  Connect with Me  
 -  Email: mo.anascoms@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/mohammad-anas-06876a283/  
-- 🌐 itch.io: https://macoms.itch.io/  
+- itch.io: https://macoms.itch.io/  
 - behance: https://www.behance.net/mohammadanas62
   
